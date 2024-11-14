@@ -1,16 +1,30 @@
-## Hi there 👋
+# Hi there, I'm Harish 👋
 
-<!--
-**dark-capricornus/dark-capricornus** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a student at Coimbatore Institute of Technology, pursuing a B.Tech in Artificial Intelligence and Data Science. I’m passionate about building impactful software and contributing to open-source projects.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 About Me
+
+- 🌱 Currently learning and exploring: Advanced Flutter, web development, and AI applications
+- 💬 Ask me about: Flutter development, web development, and coding
+- 📫 How to reach me: [Your preferred contact method, e.g., LinkedIn or email]
+
+---
+
+## 🛠 Tech Stack
+
+- **Languages**: Dart
+- **Frameworks**: Flutter
+- **Tools**: Git, GitHub
+
+---
+
+## 🌐 Connect with Me
+
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/harish-balavenkatraman-07b08a311?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BTsc3G1UkS7qOl5ZhivbLvg%3D%3D)
+
+
+---
+
+Thanks for stopping by! 😊
