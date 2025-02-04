@@ -8,14 +8,15 @@ I'm a student at Coimbatore Institute of Technology, pursuing a B.Tech in Artifi
 
 - 🌱 Currently learning and exploring: Advanced Flutter, web development, and AI applications
 - 💬 Ask me about: Flutter development, web development, and coding
-- 📫 How to reach me: [Your preferred contact method, e.g., LinkedIn or email]
+- 📫 How to reach me: [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/harish-balavenkatraman-07b08a311?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BTsc3G1UkS7qOl5ZhivbLvg%3D%3D)
+
 
 ---
 
 ## 🛠 Tech Stack
 
 - **Languages**: Dart
-- **Frameworks**: Flutter
+- **Frameworks**: Flutter,Serverpod,React,Node
 - **Tools**: Git, GitHub
 
 ---
